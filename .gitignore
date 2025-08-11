@@ -1,0 +1,7 @@
+# For Python projects
+venv/
+__pycache__/
+*.db
+.env
+*.pyc
+
